@@ -12,3 +12,5 @@ app.get("/news",(req,res)=>{
 
 
 app.listen("7000")
+
+
